@@ -1,0 +1,45 @@
+
+html{
+    font-size: 1.5em;
+  }
+  
+  body{
+    background-color: rgb(255, 212, 148);
+  }
+  
+  header{
+    width: 100vw;
+    height: 10vh;
+    border-bottom: 5px solid #ffef95;
+  }
+  
+  main{
+    display: flex;
+    margin: 5px;
+    width: 100vw;
+    height: 11vh;
+  }
+  
+  nav{
+    width: 100vw;
+    border-right: 5px solid #eaff9d;
+  }
+  
+  section{
+      display: flex
+    width: 100%;
+    margin-left: 5px;
+    border-bottom: 5px solid #ffef95;
+  }
+  
+  footer{
+    width: 100vw;
+    height: 10vh;
+  }
+
+  .btn{
+    width: 6vw;
+    height: 9vh;
+    background-color: rgb(149, 247, 247);
+  }
+  
